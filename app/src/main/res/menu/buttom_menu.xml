@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_frag"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/upload_frag"
+        android:title="Upload"
+        android:icon="@drawable/ic_upload"/>
+    <item
+        android:id="@+id/profileFrag"
+        android:title="Profile"
+        android:icon="@drawable/ic_account"/>
+</menu>

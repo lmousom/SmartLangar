@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Langar</string>
+    <string name="smartlangar_logo">SmartLangar Logo</string>
+    <string name="sign_in_with_google">Sign-In with Google!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

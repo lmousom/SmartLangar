@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/buttom_nav"
+    app:startDestination="@id/home_frag">
+    <fragment
+        android:id="@+id/home_frag"
+        android:name="com.mousom.smartlangar.Home"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/upload_frag"
+        android:name="com.mousom.smartlangar.Upload"
+        android:label="Upload"
+        tools:layout="@layout/fragment_upload" />
+    <fragment
+        android:id="@+id/profileFrag"
+        android:name="com.mousom.smartlangar.ProfileFrag"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

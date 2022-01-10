@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395772544090",
+    "firebase_url": "https://smart-langar.firebaseio.com",
+    "project_id": "smart-langar",
+    "storage_bucket": "smart-langar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395772544090:android:13b6c96e5300248061c463",
+        "android_client_info": {
+          "package_name": "com.mousom.smartlangar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395772544090-tiaa8cjf3cemb1vmkrsgotvoo50vrghr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mousom.smartlangar",
+            "certificate_hash": "76c248e76b21025fe21822e80ec37128cc079399"
+          }
+        },
+        {
+          "client_id": "395772544090-q0vapiac6t3048rpg4amqdi7a6f44gcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc73ksOxl9DKNFKWXDR4BJaPldUFylHJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395772544090-q0vapiac6t3048rpg4amqdi7a6f44gcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
